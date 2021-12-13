@@ -1,0 +1,16 @@
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 2\Implicit And Explicit Conversions\Conversions\Conversions\bin\Debug\net5.0\Conversions.exe
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 2\Implicit And Explicit Conversions\Conversions\Conversions\bin\Debug\net5.0\Conversions.deps.json
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 2\Implicit And Explicit Conversions\Conversions\Conversions\bin\Debug\net5.0\Conversions.runtimeconfig.json
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 2\Implicit And Explicit Conversions\Conversions\Conversions\bin\Debug\net5.0\Conversions.runtimeconfig.dev.json
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 2\Implicit And Explicit Conversions\Conversions\Conversions\bin\Debug\net5.0\Conversions.dll
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 2\Implicit And Explicit Conversions\Conversions\Conversions\bin\Debug\net5.0\ref\Conversions.dll
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 2\Implicit And Explicit Conversions\Conversions\Conversions\bin\Debug\net5.0\Conversions.pdb
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 2\Implicit And Explicit Conversions\Conversions\Conversions\obj\Debug\net5.0\Conversions.csproj.AssemblyReference.cache
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 2\Implicit And Explicit Conversions\Conversions\Conversions\obj\Debug\net5.0\Conversions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 2\Implicit And Explicit Conversions\Conversions\Conversions\obj\Debug\net5.0\Conversions.AssemblyInfoInputs.cache
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 2\Implicit And Explicit Conversions\Conversions\Conversions\obj\Debug\net5.0\Conversions.AssemblyInfo.cs
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 2\Implicit And Explicit Conversions\Conversions\Conversions\obj\Debug\net5.0\Conversions.csproj.CoreCompileInputs.cache
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 2\Implicit And Explicit Conversions\Conversions\Conversions\obj\Debug\net5.0\Conversions.dll
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 2\Implicit And Explicit Conversions\Conversions\Conversions\obj\Debug\net5.0\ref\Conversions.dll
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 2\Implicit And Explicit Conversions\Conversions\Conversions\obj\Debug\net5.0\Conversions.pdb
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 2\Implicit And Explicit Conversions\Conversions\Conversions\obj\Debug\net5.0\Conversions.genruntimeconfig.cache
