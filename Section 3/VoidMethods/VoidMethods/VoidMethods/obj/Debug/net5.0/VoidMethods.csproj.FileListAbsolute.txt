@@ -1,0 +1,16 @@
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 3\VoidMethods\VoidMethods\VoidMethods\bin\Debug\net5.0\VoidMethods.exe
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 3\VoidMethods\VoidMethods\VoidMethods\bin\Debug\net5.0\VoidMethods.deps.json
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 3\VoidMethods\VoidMethods\VoidMethods\bin\Debug\net5.0\VoidMethods.runtimeconfig.json
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 3\VoidMethods\VoidMethods\VoidMethods\bin\Debug\net5.0\VoidMethods.runtimeconfig.dev.json
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 3\VoidMethods\VoidMethods\VoidMethods\bin\Debug\net5.0\VoidMethods.dll
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 3\VoidMethods\VoidMethods\VoidMethods\bin\Debug\net5.0\ref\VoidMethods.dll
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 3\VoidMethods\VoidMethods\VoidMethods\bin\Debug\net5.0\VoidMethods.pdb
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 3\VoidMethods\VoidMethods\VoidMethods\obj\Debug\net5.0\VoidMethods.csproj.AssemblyReference.cache
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 3\VoidMethods\VoidMethods\VoidMethods\obj\Debug\net5.0\VoidMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 3\VoidMethods\VoidMethods\VoidMethods\obj\Debug\net5.0\VoidMethods.AssemblyInfoInputs.cache
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 3\VoidMethods\VoidMethods\VoidMethods\obj\Debug\net5.0\VoidMethods.AssemblyInfo.cs
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 3\VoidMethods\VoidMethods\VoidMethods\obj\Debug\net5.0\VoidMethods.csproj.CoreCompileInputs.cache
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 3\VoidMethods\VoidMethods\VoidMethods\obj\Debug\net5.0\VoidMethods.dll
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 3\VoidMethods\VoidMethods\VoidMethods\obj\Debug\net5.0\ref\VoidMethods.dll
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 3\VoidMethods\VoidMethods\VoidMethods\obj\Debug\net5.0\VoidMethods.pdb
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 3\VoidMethods\VoidMethods\VoidMethods\obj\Debug\net5.0\VoidMethods.genruntimeconfig.cache
