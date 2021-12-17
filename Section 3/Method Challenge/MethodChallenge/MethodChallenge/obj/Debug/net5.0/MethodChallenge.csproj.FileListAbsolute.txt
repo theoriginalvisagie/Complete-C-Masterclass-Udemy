@@ -1,0 +1,16 @@
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 3\Method Challenge\MethodChallenge\MethodChallenge\bin\Debug\net5.0\MethodChallenge.exe
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 3\Method Challenge\MethodChallenge\MethodChallenge\bin\Debug\net5.0\MethodChallenge.deps.json
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 3\Method Challenge\MethodChallenge\MethodChallenge\bin\Debug\net5.0\MethodChallenge.runtimeconfig.json
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 3\Method Challenge\MethodChallenge\MethodChallenge\bin\Debug\net5.0\MethodChallenge.runtimeconfig.dev.json
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 3\Method Challenge\MethodChallenge\MethodChallenge\bin\Debug\net5.0\MethodChallenge.dll
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 3\Method Challenge\MethodChallenge\MethodChallenge\bin\Debug\net5.0\ref\MethodChallenge.dll
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 3\Method Challenge\MethodChallenge\MethodChallenge\bin\Debug\net5.0\MethodChallenge.pdb
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 3\Method Challenge\MethodChallenge\MethodChallenge\obj\Debug\net5.0\MethodChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 3\Method Challenge\MethodChallenge\MethodChallenge\obj\Debug\net5.0\MethodChallenge.AssemblyInfoInputs.cache
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 3\Method Challenge\MethodChallenge\MethodChallenge\obj\Debug\net5.0\MethodChallenge.AssemblyInfo.cs
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 3\Method Challenge\MethodChallenge\MethodChallenge\obj\Debug\net5.0\MethodChallenge.csproj.CoreCompileInputs.cache
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 3\Method Challenge\MethodChallenge\MethodChallenge\obj\Debug\net5.0\MethodChallenge.dll
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 3\Method Challenge\MethodChallenge\MethodChallenge\obj\Debug\net5.0\ref\MethodChallenge.dll
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 3\Method Challenge\MethodChallenge\MethodChallenge\obj\Debug\net5.0\MethodChallenge.pdb
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 3\Method Challenge\MethodChallenge\MethodChallenge\obj\Debug\net5.0\MethodChallenge.genruntimeconfig.cache
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 3\Method Challenge\MethodChallenge\MethodChallenge\obj\Debug\net5.0\MethodChallenge.csproj.AssemblyReference.cache
