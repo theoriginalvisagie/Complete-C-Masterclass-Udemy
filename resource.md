@@ -6,3 +6,6 @@ https://www.dofactory.com/csharp-coding-standards
 
 Strings Class
 https://docs.microsoft.com/en-us/dotnet/api/system.string?view=netcore-3.1
+
+String Methods
+https://docs.microsoft.com/en-us/dotnet/api/system.string?view=netcore-3.1
