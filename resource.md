@@ -9,3 +9,7 @@ https://docs.microsoft.com/en-us/dotnet/api/system.string?view=netcore-3.1
 
 String Methods
 https://docs.microsoft.com/en-us/dotnet/api/system.string?view=netcore-3.1
+
+Cheat Sheets
+https://cheatography.com/laurence/cheat-sheets/c/
+https://www.thecodingguys.net/resources/cs-cheat-sheet.pdf
