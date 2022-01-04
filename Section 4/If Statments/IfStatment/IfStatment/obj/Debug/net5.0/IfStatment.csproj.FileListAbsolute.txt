@@ -1,0 +1,16 @@
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 4\If Statments\IfStatment\IfStatment\bin\Debug\net5.0\IfStatment.exe
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 4\If Statments\IfStatment\IfStatment\bin\Debug\net5.0\IfStatment.deps.json
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 4\If Statments\IfStatment\IfStatment\bin\Debug\net5.0\IfStatment.runtimeconfig.json
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 4\If Statments\IfStatment\IfStatment\bin\Debug\net5.0\IfStatment.runtimeconfig.dev.json
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 4\If Statments\IfStatment\IfStatment\bin\Debug\net5.0\IfStatment.dll
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 4\If Statments\IfStatment\IfStatment\bin\Debug\net5.0\ref\IfStatment.dll
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 4\If Statments\IfStatment\IfStatment\bin\Debug\net5.0\IfStatment.pdb
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 4\If Statments\IfStatment\IfStatment\obj\Debug\net5.0\IfStatment.csproj.AssemblyReference.cache
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 4\If Statments\IfStatment\IfStatment\obj\Debug\net5.0\IfStatment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 4\If Statments\IfStatment\IfStatment\obj\Debug\net5.0\IfStatment.AssemblyInfoInputs.cache
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 4\If Statments\IfStatment\IfStatment\obj\Debug\net5.0\IfStatment.AssemblyInfo.cs
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 4\If Statments\IfStatment\IfStatment\obj\Debug\net5.0\IfStatment.csproj.CoreCompileInputs.cache
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 4\If Statments\IfStatment\IfStatment\obj\Debug\net5.0\IfStatment.dll
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 4\If Statments\IfStatment\IfStatment\obj\Debug\net5.0\ref\IfStatment.dll
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 4\If Statments\IfStatment\IfStatment\obj\Debug\net5.0\IfStatment.pdb
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 4\If Statments\IfStatment\IfStatment\obj\Debug\net5.0\IfStatment.genruntimeconfig.cache

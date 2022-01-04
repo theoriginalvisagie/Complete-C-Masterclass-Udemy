@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\visag\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\visag\\.nuget\\packages"
+    ]
+  }
+}
