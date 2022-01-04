@@ -11,6 +11,7 @@ namespace Operators
             int num3;
 
             //unary operators
+            //Modyfies value of the related value
             num3 = -num1;
             Console.WriteLine($"num3 is {num3}");
 
