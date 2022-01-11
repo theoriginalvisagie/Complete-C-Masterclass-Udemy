@@ -1,0 +1,15 @@
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 4\Ternary Operator\TernaryOperator\TernaryOperator\bin\Debug\net5.0\TernaryOperator.exe
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 4\Ternary Operator\TernaryOperator\TernaryOperator\bin\Debug\net5.0\TernaryOperator.deps.json
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 4\Ternary Operator\TernaryOperator\TernaryOperator\bin\Debug\net5.0\TernaryOperator.runtimeconfig.json
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 4\Ternary Operator\TernaryOperator\TernaryOperator\bin\Debug\net5.0\TernaryOperator.runtimeconfig.dev.json
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 4\Ternary Operator\TernaryOperator\TernaryOperator\bin\Debug\net5.0\TernaryOperator.dll
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 4\Ternary Operator\TernaryOperator\TernaryOperator\bin\Debug\net5.0\ref\TernaryOperator.dll
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 4\Ternary Operator\TernaryOperator\TernaryOperator\bin\Debug\net5.0\TernaryOperator.pdb
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 4\Ternary Operator\TernaryOperator\TernaryOperator\obj\Debug\net5.0\TernaryOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 4\Ternary Operator\TernaryOperator\TernaryOperator\obj\Debug\net5.0\TernaryOperator.AssemblyInfoInputs.cache
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 4\Ternary Operator\TernaryOperator\TernaryOperator\obj\Debug\net5.0\TernaryOperator.AssemblyInfo.cs
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 4\Ternary Operator\TernaryOperator\TernaryOperator\obj\Debug\net5.0\TernaryOperator.csproj.CoreCompileInputs.cache
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 4\Ternary Operator\TernaryOperator\TernaryOperator\obj\Debug\net5.0\TernaryOperator.dll
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 4\Ternary Operator\TernaryOperator\TernaryOperator\obj\Debug\net5.0\ref\TernaryOperator.dll
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 4\Ternary Operator\TernaryOperator\TernaryOperator\obj\Debug\net5.0\TernaryOperator.pdb
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 4\Ternary Operator\TernaryOperator\TernaryOperator\obj\Debug\net5.0\TernaryOperator.genruntimeconfig.cache
