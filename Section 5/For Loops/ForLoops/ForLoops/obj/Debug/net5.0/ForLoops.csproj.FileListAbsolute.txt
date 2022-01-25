@@ -1,0 +1,16 @@
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 5\For Loops\ForLoops\ForLoops\bin\Debug\net5.0\ForLoops.exe
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 5\For Loops\ForLoops\ForLoops\bin\Debug\net5.0\ForLoops.deps.json
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 5\For Loops\ForLoops\ForLoops\bin\Debug\net5.0\ForLoops.runtimeconfig.json
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 5\For Loops\ForLoops\ForLoops\bin\Debug\net5.0\ForLoops.runtimeconfig.dev.json
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 5\For Loops\ForLoops\ForLoops\bin\Debug\net5.0\ForLoops.dll
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 5\For Loops\ForLoops\ForLoops\bin\Debug\net5.0\ref\ForLoops.dll
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 5\For Loops\ForLoops\ForLoops\bin\Debug\net5.0\ForLoops.pdb
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 5\For Loops\ForLoops\ForLoops\obj\Debug\net5.0\ForLoops.csproj.AssemblyReference.cache
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 5\For Loops\ForLoops\ForLoops\obj\Debug\net5.0\ForLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 5\For Loops\ForLoops\ForLoops\obj\Debug\net5.0\ForLoops.AssemblyInfoInputs.cache
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 5\For Loops\ForLoops\ForLoops\obj\Debug\net5.0\ForLoops.AssemblyInfo.cs
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 5\For Loops\ForLoops\ForLoops\obj\Debug\net5.0\ForLoops.csproj.CoreCompileInputs.cache
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 5\For Loops\ForLoops\ForLoops\obj\Debug\net5.0\ForLoops.dll
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 5\For Loops\ForLoops\ForLoops\obj\Debug\net5.0\ref\ForLoops.dll
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 5\For Loops\ForLoops\ForLoops\obj\Debug\net5.0\ForLoops.pdb
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 5\For Loops\ForLoops\ForLoops\obj\Debug\net5.0\ForLoops.genruntimeconfig.cache
