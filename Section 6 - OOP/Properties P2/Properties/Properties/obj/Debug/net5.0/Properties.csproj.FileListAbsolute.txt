@@ -1,0 +1,32 @@
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 6 - OOP\Properties\Properties\Properties\bin\Debug\net5.0\Properties.exe
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 6 - OOP\Properties\Properties\Properties\bin\Debug\net5.0\Properties.deps.json
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 6 - OOP\Properties\Properties\Properties\bin\Debug\net5.0\Properties.runtimeconfig.json
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 6 - OOP\Properties\Properties\Properties\bin\Debug\net5.0\Properties.runtimeconfig.dev.json
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 6 - OOP\Properties\Properties\Properties\bin\Debug\net5.0\Properties.dll
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 6 - OOP\Properties\Properties\Properties\bin\Debug\net5.0\ref\Properties.dll
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 6 - OOP\Properties\Properties\Properties\bin\Debug\net5.0\Properties.pdb
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 6 - OOP\Properties\Properties\Properties\obj\Debug\net5.0\Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 6 - OOP\Properties\Properties\Properties\obj\Debug\net5.0\Properties.AssemblyInfoInputs.cache
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 6 - OOP\Properties\Properties\Properties\obj\Debug\net5.0\Properties.AssemblyInfo.cs
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 6 - OOP\Properties\Properties\Properties\obj\Debug\net5.0\Properties.csproj.CoreCompileInputs.cache
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 6 - OOP\Properties\Properties\Properties\obj\Debug\net5.0\Properties.dll
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 6 - OOP\Properties\Properties\Properties\obj\Debug\net5.0\ref\Properties.dll
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 6 - OOP\Properties\Properties\Properties\obj\Debug\net5.0\Properties.pdb
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 6 - OOP\Properties\Properties\Properties\obj\Debug\net5.0\Properties.genruntimeconfig.cache
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 6 - OOP\Properties\Properties\Properties\obj\Debug\net5.0\Properties.csproj.AssemblyReference.cache
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 6 - OOP\Properties P2\Properties\Properties\bin\Debug\net5.0\Properties.exe
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 6 - OOP\Properties P2\Properties\Properties\bin\Debug\net5.0\Properties.deps.json
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 6 - OOP\Properties P2\Properties\Properties\bin\Debug\net5.0\Properties.runtimeconfig.json
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 6 - OOP\Properties P2\Properties\Properties\bin\Debug\net5.0\Properties.runtimeconfig.dev.json
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 6 - OOP\Properties P2\Properties\Properties\bin\Debug\net5.0\Properties.dll
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 6 - OOP\Properties P2\Properties\Properties\bin\Debug\net5.0\ref\Properties.dll
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 6 - OOP\Properties P2\Properties\Properties\bin\Debug\net5.0\Properties.pdb
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 6 - OOP\Properties P2\Properties\Properties\obj\Debug\net5.0\Properties.csproj.AssemblyReference.cache
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 6 - OOP\Properties P2\Properties\Properties\obj\Debug\net5.0\Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 6 - OOP\Properties P2\Properties\Properties\obj\Debug\net5.0\Properties.AssemblyInfoInputs.cache
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 6 - OOP\Properties P2\Properties\Properties\obj\Debug\net5.0\Properties.AssemblyInfo.cs
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 6 - OOP\Properties P2\Properties\Properties\obj\Debug\net5.0\Properties.csproj.CoreCompileInputs.cache
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 6 - OOP\Properties P2\Properties\Properties\obj\Debug\net5.0\Properties.dll
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 6 - OOP\Properties P2\Properties\Properties\obj\Debug\net5.0\ref\Properties.dll
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 6 - OOP\Properties P2\Properties\Properties\obj\Debug\net5.0\Properties.pdb
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 6 - OOP\Properties P2\Properties\Properties\obj\Debug\net5.0\Properties.genruntimeconfig.cache
