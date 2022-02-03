@@ -13,7 +13,8 @@ namespace Properties
             box.SetLength(4);
             box.width = 4;
             box.height = 4;
-
+            Console.WriteLine($"The length is {box.GetLenth()}");
+            Console.WriteLine($"The volume is {box.GetVolume()}");
             box.DisplayInfo();
         }
     }

@@ -15,9 +15,34 @@ namespace Properties
         public int width;
         public int volume;
 
+        // Setter
         public void SetLength(int newlength)
         {
+            if (lenght < 0)
+            {
+                throw new Exception("Lenght is less than 0");
+            }
+            else 
+            {
+                this.lenght = newlength;
+            }
+           
+        }
+
+        public int GetVolume()
+        {
+            return this.height * this.lenght * this.width;
+        }
+        // Only this class
+        // and classes that inherent
+        /*private void SetLength(int newlength)
+        {
             this.lenght = newlength;
+        }*/
+
+        public int GetLenth() 
+        {
+            return this.lenght;
         }
 
         public void DisplayInfo()

@@ -13,3 +13,4 @@ C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 6 - OOP\P
 C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 6 - OOP\Properties\Properties\Properties\obj\Debug\net5.0\ref\Properties.dll
 C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 6 - OOP\Properties\Properties\Properties\obj\Debug\net5.0\Properties.pdb
 C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 6 - OOP\Properties\Properties\Properties\obj\Debug\net5.0\Properties.genruntimeconfig.cache
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 6 - OOP\Properties\Properties\Properties\obj\Debug\net5.0\Properties.csproj.AssemblyReference.cache
