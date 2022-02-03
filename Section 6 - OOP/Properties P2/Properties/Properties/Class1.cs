@@ -49,6 +49,7 @@ namespace Properties
             this.lenght = lenght;
             this.height = height;
             Width = width;
+
         }
 
         public void SetLength(int newlength)

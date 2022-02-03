@@ -1,0 +1,5 @@
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 6 - OOP\Members And Finalizers\MembersAndFinalizers\MembersAndFinalizers\obj\Debug\net5.0\MembersAndFinalizers.csproj.AssemblyReference.cache
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 6 - OOP\Members And Finalizers\MembersAndFinalizers\MembersAndFinalizers\obj\Debug\net5.0\MembersAndFinalizers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 6 - OOP\Members And Finalizers\MembersAndFinalizers\MembersAndFinalizers\obj\Debug\net5.0\MembersAndFinalizers.AssemblyInfoInputs.cache
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 6 - OOP\Members And Finalizers\MembersAndFinalizers\MembersAndFinalizers\obj\Debug\net5.0\MembersAndFinalizers.AssemblyInfo.cs
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 6 - OOP\Members And Finalizers\MembersAndFinalizers\MembersAndFinalizers\obj\Debug\net5.0\MembersAndFinalizers.csproj.CoreCompileInputs.cache
