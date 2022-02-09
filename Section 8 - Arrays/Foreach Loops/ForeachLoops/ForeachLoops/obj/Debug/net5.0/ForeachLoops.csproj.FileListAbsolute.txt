@@ -1,0 +1,15 @@
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 8 - Arrays\Foreach Loops\ForeachLoops\ForeachLoops\obj\Debug\net5.0\ForeachLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 8 - Arrays\Foreach Loops\ForeachLoops\ForeachLoops\obj\Debug\net5.0\ForeachLoops.AssemblyInfoInputs.cache
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 8 - Arrays\Foreach Loops\ForeachLoops\ForeachLoops\obj\Debug\net5.0\ForeachLoops.AssemblyInfo.cs
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 8 - Arrays\Foreach Loops\ForeachLoops\ForeachLoops\obj\Debug\net5.0\ForeachLoops.csproj.CoreCompileInputs.cache
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 8 - Arrays\Foreach Loops\ForeachLoops\ForeachLoops\bin\Debug\net5.0\ForeachLoops.exe
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 8 - Arrays\Foreach Loops\ForeachLoops\ForeachLoops\bin\Debug\net5.0\ForeachLoops.deps.json
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 8 - Arrays\Foreach Loops\ForeachLoops\ForeachLoops\bin\Debug\net5.0\ForeachLoops.runtimeconfig.json
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 8 - Arrays\Foreach Loops\ForeachLoops\ForeachLoops\bin\Debug\net5.0\ForeachLoops.runtimeconfig.dev.json
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 8 - Arrays\Foreach Loops\ForeachLoops\ForeachLoops\bin\Debug\net5.0\ForeachLoops.dll
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 8 - Arrays\Foreach Loops\ForeachLoops\ForeachLoops\bin\Debug\net5.0\ref\ForeachLoops.dll
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 8 - Arrays\Foreach Loops\ForeachLoops\ForeachLoops\bin\Debug\net5.0\ForeachLoops.pdb
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 8 - Arrays\Foreach Loops\ForeachLoops\ForeachLoops\obj\Debug\net5.0\ForeachLoops.dll
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 8 - Arrays\Foreach Loops\ForeachLoops\ForeachLoops\obj\Debug\net5.0\ref\ForeachLoops.dll
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 8 - Arrays\Foreach Loops\ForeachLoops\ForeachLoops\obj\Debug\net5.0\ForeachLoops.pdb
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 8 - Arrays\Foreach Loops\ForeachLoops\ForeachLoops\obj\Debug\net5.0\ForeachLoops.genruntimeconfig.cache
