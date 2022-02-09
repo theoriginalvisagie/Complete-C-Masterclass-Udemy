@@ -1,0 +1,16 @@
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 8 - Arrays\Multi Demensional Arrays\MultiDimensionalArrays\MultiDimensionalArrays\bin\Debug\net5.0\MultiDimensionalArrays.exe
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 8 - Arrays\Multi Demensional Arrays\MultiDimensionalArrays\MultiDimensionalArrays\bin\Debug\net5.0\MultiDimensionalArrays.deps.json
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 8 - Arrays\Multi Demensional Arrays\MultiDimensionalArrays\MultiDimensionalArrays\bin\Debug\net5.0\MultiDimensionalArrays.runtimeconfig.json
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 8 - Arrays\Multi Demensional Arrays\MultiDimensionalArrays\MultiDimensionalArrays\bin\Debug\net5.0\MultiDimensionalArrays.runtimeconfig.dev.json
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 8 - Arrays\Multi Demensional Arrays\MultiDimensionalArrays\MultiDimensionalArrays\bin\Debug\net5.0\MultiDimensionalArrays.dll
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 8 - Arrays\Multi Demensional Arrays\MultiDimensionalArrays\MultiDimensionalArrays\bin\Debug\net5.0\ref\MultiDimensionalArrays.dll
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 8 - Arrays\Multi Demensional Arrays\MultiDimensionalArrays\MultiDimensionalArrays\bin\Debug\net5.0\MultiDimensionalArrays.pdb
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 8 - Arrays\Multi Demensional Arrays\MultiDimensionalArrays\MultiDimensionalArrays\obj\Debug\net5.0\MultiDimensionalArrays.csproj.AssemblyReference.cache
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 8 - Arrays\Multi Demensional Arrays\MultiDimensionalArrays\MultiDimensionalArrays\obj\Debug\net5.0\MultiDimensionalArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 8 - Arrays\Multi Demensional Arrays\MultiDimensionalArrays\MultiDimensionalArrays\obj\Debug\net5.0\MultiDimensionalArrays.AssemblyInfoInputs.cache
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 8 - Arrays\Multi Demensional Arrays\MultiDimensionalArrays\MultiDimensionalArrays\obj\Debug\net5.0\MultiDimensionalArrays.AssemblyInfo.cs
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 8 - Arrays\Multi Demensional Arrays\MultiDimensionalArrays\MultiDimensionalArrays\obj\Debug\net5.0\MultiDimensionalArrays.csproj.CoreCompileInputs.cache
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 8 - Arrays\Multi Demensional Arrays\MultiDimensionalArrays\MultiDimensionalArrays\obj\Debug\net5.0\MultiDimensionalArrays.dll
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 8 - Arrays\Multi Demensional Arrays\MultiDimensionalArrays\MultiDimensionalArrays\obj\Debug\net5.0\ref\MultiDimensionalArrays.dll
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 8 - Arrays\Multi Demensional Arrays\MultiDimensionalArrays\MultiDimensionalArrays\obj\Debug\net5.0\MultiDimensionalArrays.pdb
+C:\Users\visag\Documents\C#\Complete-C-Sharp-Masterclass-Udemy\Section 8 - Arrays\Multi Demensional Arrays\MultiDimensionalArrays\MultiDimensionalArrays\obj\Debug\net5.0\MultiDimensionalArrays.genruntimeconfig.cache
